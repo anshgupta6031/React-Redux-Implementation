@@ -11,6 +11,7 @@ function App() {
     return (
         <>
             <Navbar />
+            
             <div className="container my-4">
                 <Shop />
             </div>
